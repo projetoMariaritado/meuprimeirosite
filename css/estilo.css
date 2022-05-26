@@ -33,3 +33,19 @@ menu{
    background-color: #e9d4ab;
    padding: 1%;
 }
+.itens_menu{
+    text-align: center;
+    font-size: 1.2em;
+}
+.logo{
+    font-size: 1.5em;
+}
+figure{
+    text-align: center;
+}
+footer{
+    background-color: #e9d4ab;
+    padding:1%;
+}
+    
+
