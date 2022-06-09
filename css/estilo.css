@@ -46,6 +46,40 @@ figure{
 footer{
     background-color: #e9d4ab;
     padding:1%;
+    margin-top: 2%;
+    font-size: 0.7cm;
 }
+.conteine{      
+    padding-top: 2%;
+}
+.titulo_menu_caos{
+    font-size: 1,5em;
+}
+.musica{
+    text-align: center;
+    font-size: 1.5em;
+}
+.capa_menu_caos{
+    float: left;
+    width: 20%;
+}
+.desenho_menu_caos{
+    float: right;
+    width: 15;
+    padding-bottom: 5%;
+}
+.botao{
+    background-color: #e9d4ab;color:#7a7771; /*gray */
+    border: none;
+    color:#e9d4ab
+    padding: 15px 32px;
+    text-decoration:inline-block ;
+    font-size: 16px ;
+}
+.itens_menu a:link{
+    color:#7a7771
+    background-color: #ecce91
+}
+    
     
 
